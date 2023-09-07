@@ -1,0 +1,11 @@
+.botoncito {
+    border-color: rgb(221, 255, 0);
+    background-color: rgb(234, 255, 0);
+    color: black;
+}
+
+.boton-nuevo {
+    border-color: red;
+    background-color: red;
+    color: white;
+}
